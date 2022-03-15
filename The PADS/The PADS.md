@@ -1,4 +1,4 @@
-**Explanation:** 
+**Explanation:**  
 <p float="center">
   <img src="https://user-images.githubusercontent.com/50071318/158417390-b3724049-77dc-4ce0-a054-4998c6089749.PNG", width=50% height=50%>
   <img src="https://user-images.githubusercontent.com/50071318/158417540-1471744e-281f-4841-8bd3-976866feb7a3.PNG", width=50% height=50%>
